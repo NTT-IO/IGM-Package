@@ -8,6 +8,7 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  importerVersion: 1
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -424,13 +425,13 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -1224535842
+    guid: 1543969238
     name: hp
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: hp_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -439,7 +440,7 @@ ScriptedImporter:
         width: 33
         height: 32
       spriteId: c01ea090f43951c48987940f88b0c419
-    - name: hp_Frame_1
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -448,7 +449,7 @@ ScriptedImporter:
         width: 33
         height: 32
       spriteId: 2901b75dd4371b947a024e85cdf067c3
-    - name: hp_Frame_2
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -457,7 +458,7 @@ ScriptedImporter:
         width: 33
         height: 32
       spriteId: ce7215f4d27dd814f8d69cd9aaad4b95
-    - name: hp_Frame_3
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -466,7 +467,7 @@ ScriptedImporter:
         width: 32
         height: 32
       spriteId: 76213debc8961d34ea3fc5f108f28801
-    - name: hp_Frame_4
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -475,7 +476,7 @@ ScriptedImporter:
         width: 32
         height: 32
       spriteId: f32123ace0cdf674ebd57ae132ea6f4f
-    - name: hp_Frame_5
+    - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -484,7 +485,7 @@ ScriptedImporter:
         width: 33
         height: 32
       spriteId: ca1276461cf7b5e46a2d1ba3da38352a
-    - name: hp_Frame_6
+    - name: Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -493,7 +494,7 @@ ScriptedImporter:
         width: 33
         height: 26
       spriteId: e50818329e702e740be90e6ab5dec292
-    - name: hp_Frame_7
+    - name: Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -502,7 +503,7 @@ ScriptedImporter:
         width: 33
         height: 26
       spriteId: f47b3c12cea6f70479b019c7e8cd1194
-    - name: hp_Frame_8
+    - name: Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -511,7 +512,7 @@ ScriptedImporter:
         width: 32
         height: 26
       spriteId: 8e57440749120c2408c081bbb5996705
-    - name: hp_Frame_9
+    - name: Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:
@@ -520,7 +521,7 @@ ScriptedImporter:
         width: 32
         height: 26
       spriteId: 63fce4a61a8588543a48d0c09a323678
-    - name: hp_Frame_10
+    - name: Frame_10
       frameIndex: 10
       additiveSortOrder: 0
       cellRect:
@@ -529,7 +530,7 @@ ScriptedImporter:
         width: 32
         height: 26
       spriteId: 7c2dec40436746e46b2c88023a240fe5
-    - name: hp_Frame_11
+    - name: Frame_11
       frameIndex: 11
       additiveSortOrder: 0
       cellRect:
@@ -538,7 +539,7 @@ ScriptedImporter:
         width: 32
         height: 26
       spriteId: 4c3bbb3740f55bd4c8703f3f54089340
-    - name: hp_Frame_12
+    - name: Frame_12
       frameIndex: 12
       additiveSortOrder: 0
       cellRect:
@@ -547,7 +548,7 @@ ScriptedImporter:
         width: 33
         height: 27
       spriteId: 8898f5288be90794399769bbca5c830f
-    - name: hp_Frame_13
+    - name: Frame_13
       frameIndex: 13
       additiveSortOrder: 0
       cellRect:
@@ -556,7 +557,7 @@ ScriptedImporter:
         width: 33
         height: 30
       spriteId: 1d5d34f26ee226f4ca10d0cc11d6bb12
-    - name: hp_Frame_14
+    - name: Frame_14
       frameIndex: 14
       additiveSortOrder: 0
       cellRect:
@@ -584,3 +585,4 @@ ScriptedImporter:
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 32, y: 32}
+  previousTextureSize: {x: 128, y: 256}

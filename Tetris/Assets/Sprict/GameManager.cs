@@ -30,6 +30,16 @@ public class GameManager : MonoBehaviour
             gameOverPanel.SetActive(false);
         }
     }
+    private void Update()
+    {
+        if(Input.GetKeyDown(KeyCode.P))
+        {
+            if (Time.timeScale == 1)
+                Time.timeScale = 0;
+            else
+                Time.timeScale = 1;
+        }
+    }
     private void HandleGameOver()
     {
         gameOverPanel.SetActive(true);
